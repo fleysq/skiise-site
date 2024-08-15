@@ -1307,4 +1307,10 @@ html {
   background-color: #ececec;
 }
 
+.flex{
+display: flex;
+width: 100%;
+flex-flow: wrap;
+justify-content: center;
+align-items: center; 
 
